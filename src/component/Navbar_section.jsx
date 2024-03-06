@@ -62,11 +62,13 @@ const handleMouseLeaveOne = () => {
           <p>PYQ</p>
           <p>PRESENTAION TIPS</p>
           <p>GATE EXAM PATTERN</p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
-          <p></p>
+          <p>COMMON QUESTIONS</p>
+          <p>GATE V/S OTHER EXAMS</p>
+          <p>GATE INFO</p>
+          <p>GATE EXAM 2024</p>
+          <p>GATE ONLINE CLASSES</p>
+          <p>CLASSROOM COACHING</p>
+          <p>SPARK BATCHES</p>
          </p>
        </div>
       )}

@@ -1,0 +1,234 @@
+/* .gradient {
+    width: 300px;
+    height: 300px;
+    background: linear-gradient(to right, 
+        red 0%, red 33.33%, 
+        blue 33.33%, blue 66.66%, 
+        green 66.66%, green 100%);
+    border: 2px solid black;
+    border-radius: 50%;
+    transform: rotate(45deg);position: relative;
+}
+
+.gradient::after {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    top: 0;
+    left: 0;
+    transform: translate(50%, 50%);
+    border-radius: 50%;
+
+} */
+
+.body_paragraph {
+    padding-left:60px;
+    padding-top:60px;
+    color:balck;
+    font-weight:600;
+    font-size:15px;
+    text-align:left;
+}
+.Body_heading_container {
+    padding-left:60px;
+    padding-top:60px;
+    text-align:left;
+    line-height:2rem;
+}
+.Body_heading_container h2 {
+    color:rgb(10, 108, 146);
+    margin-bottom:10px;
+
+
+}
+.List_style li {
+    list-style-type: disc;
+}
+.Table_foramte {
+    padding-left:60px;
+    padding-top:60px;
+}
+/* styles.css */
+.table-container {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .table-container th,
+  .table-container td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  .total-column {
+    background-color: blue;
+    color: #fff;
+  }
+  
+  .enroll-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  /* styles.css */
+.table-container {
+    width: 80%;
+    border-collapse: collapse;
+  }
+  
+  .table-container th {
+    color:white;
+    font-weight:bold;
+    background-color: #03172c;
+    border-style:none;
+  }
+  .table-container td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    color:rgb(16, 153, 207);
+    background-color: rgb(247, 241, 241);
+    font-weight:bold;
+  }
+  
+  .total-column {
+    background-color: blue;
+    color: white;
+  }
+  
+  .enroll-button {
+    background-color: #126ac9;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius:10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Add box shadow */
+}
+.Table_foramte h2 {
+    color:rgb(8, 102, 139);
+    font-size:30px;
+    text-align:left;
+}
+.BARC_Paragraph {
+    background-color:rgb(18, 173, 235);
+    width:400px;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius:10px;
+    text-align:center;
+    margin-bottom:20px;
+}
+.Test_series_Pragaraph {
+    background-color: #126ac9;
+    height:30px;
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    width:600px;
+    border-radius:10px;
+    margin:10px;
+    height:50px;
+    padding:5px;
+    text-align:center;
+}
+.ace-btn-container {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    text-align:center;
+}
+.ace-btn-container span {
+    font-size:40px;
+}
+.Table_foramte_two {
+    padding-left:60px;
+    padding-top:60px;
+}
+.Table_foramte_two h2 {
+    text-align:left;
+    color:#074383;
+    font-size:30px;
+    margin-bottom:20px;
+}
+.Table_foramte_two h3 {
+    color:black;
+    font-size:20px;
+    text-align:left;
+}
+/* styles.css */
+.card-container {
+    width: 300px; 
+    height: 200px; 
+    background-color:#fff; 
+    border: 2px solid #074383; 
+    /* border-radius: 10px;  */
+    padding: 20px; 
+    margin-top:20px;
+  }
+  
+  .card-container h2 {
+    background-color:#074383; 
+    height:30px;
+    color: #fff; 
+    padding: 10px;
+    border-radius: 5px;
+    margin: -20px -20px 20px -20px; 
+    text-align: center; 
+  }
+  
+  .content {
+    display: flex; 
+    flex-direction: column;
+    text-align: center; 
+    justify-content: center;
+  }
+  .Ace_cards_container {
+    display:flex;
+  }
+  .pie_charts {
+    width:350px;
+    height:350px;
+    margin-right:5rem;
+  }
+  .contact_us_heading {
+    font-size:28px;
+    color:red;
+    text-align:center;
+    margin-bottom:10px;
+  }
+  .contact_us_container {
+    text-align:center;
+    margin-top:30px;
+    line-height:2rem;
+
+  }
+  .contact_us_heading_two {
+    color:#074383;
+    font-size:28px;
+    margin-bottom:20px;
+  }
+  .banner_image {
+    padding-left:60px;
+    padding-right:60px;
+  }
+  .enroll-btn {
+text-align: center;
+  }
+  table th {
+    text-align:center;
+  }
+.bars_icon {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+.table-container th {
+    text-align:center;
+}

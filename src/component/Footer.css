@@ -1,0 +1,106 @@
+* {
+    padding: 0;
+    margin: 0;
+   
+    }
+   
+ 
+.footer-section{
+    background-color: rgb(22, 22, 23);
+    display:flex;
+    padding-left:60px;
+    padding-top:40px;
+
+    padding:60px;
+    }
+   
+    .header-info{
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    padding-left:60px;
+    }
+   
+    .headings{
+    font-size: 30px;
+    font-family:"Roboto";
+    font-weight:bold;
+    margin:10px;
+    color: aliceblue;
+    }
+    .paragraph {
+        color:#fff;
+        line-height:2rem;
+    }
+   
+    .paragraphic{
+    font-size: 15px;
+    font-style: italic;
+    color: aliceblue;
+    display: flex;
+    margin-top:10px;
+    }
+   
+    .terms-info{
+    display: flex;
+    gap:2rem;
+    margin-top:20px;
+    }
+   
+ 
+    .paragraphic:hover{
+        text-decoration: underline;
+        font-weight:bold;
+        color:skyblue;
+    }
+   
+    .gate-info{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    line-height:2rem;
+    }
+ 
+    /* .paragraphs:hover{ color: black; font-size: 13px;
+    } */
+   
+    .ese-info{ display: flex; flex-direction: column; color: aliceblue;
+     padding: 10px; line-height:2rem;
+    }
+   
+    .follow-info{ display: flex; flex-direction: column; color: Maliceblue; padding: 10px;
+    }
+   
+    .icon-order {
+    display: flex; flex-direction:row; flex-wrap: wrap; padding: 5px; gap:1rem;
+    }
+    /* .icon-order a {
+        color:gray;
+        font-size:18px;
+    } */
+    .icons{
+    padding: 5px;
+    color:gray;
+    }
+   
+    .icons:hover{
+    background-color:#fff;
+    border-radius: 15px;
+    color:black;
+    }
+    .footer-section {
+        display:flex;
+        gap:2rem;
+        padding:20px;
+        text-align:left;
+    }
+    .headings {
+        color:#fff;
+        font-weight:bold;
+    }
+    .gate_paragraphs {
+        color:white;
+    }
+    .gate_paragraphs:hover {
+        color:rgb(9, 135, 185);
+    }

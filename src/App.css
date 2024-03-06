@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.Outside_Icons {
+  background-color:rgb(10, 138, 189);
+  color:white;
+  width:50px;
+  text-align:center;
+}
+.Outside_Icons p {
+  font-size:30px;
+  margin-bottom:5px;
+}
+.Youtube:hover {
+  background-color:red;
+  width:60px;
+}
+.facebook:hover {
+  background-color:rgb(9, 135, 185);
+  width:60px;
+}
+.instagram:hover {
+  background-color:rgb(9, 135, 185);
+  width:60px;
+}
+.twitter:hover {
+  background-color:skyblue;
+  width:60px;
+}

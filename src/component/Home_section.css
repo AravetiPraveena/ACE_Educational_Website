@@ -194,7 +194,7 @@
   }
   .pie_charts {
     width:350px;
-    height:350px;
+    /* height:350px; */
     margin-right:5rem;
   }
   .contact_us_heading {

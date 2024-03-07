@@ -104,3 +104,39 @@
     .gate_paragraphs:hover {
         color:rgb(9, 135, 185);
     }
+    
+    @media screen and (max-width: 768px) {
+        .header-info{
+          flex-direction: column;
+          align-items: center;
+        }
+      
+        .header-info,
+        .gate-info,
+        .ese-info,
+        .follow-info {
+          width: 100%;
+          margin: 10px 0;
+        }
+      
+        .headings {
+          font-size: 1.2rem;
+        }
+      
+        .paragraph,
+        .gate_paragraphs,
+        .paragraphs,
+        .paragraphic {
+          font-size: 0.9rem;
+        }
+      }
+@media (max-width:944){
+    .footer-section {
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+    }
+
+}
+    

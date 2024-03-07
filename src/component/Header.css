@@ -67,5 +67,21 @@
     .listElements li {
         font-size:60px;
     }
+@media (max-width: 1118px) {
+    .logoimg img {
+        left:8%;
+    }
+}
 
-  
+@media (max-width: 944) {
+    .logoimg img {
+        left:6%;
+        top:20px;
+        width:130px;
+    }
+    .listElementsli p li{
+        font-size:15px;
+    }
+
+}
+

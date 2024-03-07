@@ -3,7 +3,7 @@
     height:10vh;
 }
 .nav_items_container {
-    padding:20px;
+    padding:15px;
     display:flex;
     justify-content:space-evenly;
 
@@ -21,7 +21,7 @@
 }
 .new_logo-container {
     display:flex;
-    flex-direction:column;
+    /* flex-direction:column; */
     justify-content: center;
     text-align: center;
 }
@@ -35,6 +35,7 @@
     justify-content: center;
     align-items: center;
     animation: blink 1s infinite alternate;
+    margin-bottom:5px;
   }
   
   
@@ -47,12 +48,13 @@
     }
   }
   .nav-item {
-    padding-top:12px;
+    padding-top:11px;
     font-size:12px;
   } 
 
   .nav-item2 {
     font-size:12px;
+    padding-top:11px;
   }
   .first-heading-container {
     background-color: rgb(243, 236, 236);
@@ -79,12 +81,11 @@
     background-color: #fff;
     color: black;
     position: relative;
-    top: 50px;
+    top: 58px;
 }
 .nav-item {
     position: relative;
-  }
-  
+  }  
   .show_text {
     position: absolute;
     top: 150%; /* Position below the nav-item */
@@ -97,13 +98,14 @@
     height:auto;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     /* z-index: 999; */
-  }
+  } 
   .show_text p{
-    font-size:15px;
+    font-size:12px;
     line-height: 2rem;
   }
   .card {
     position: relative;
     display: inline-block;
+    padding:10px;
+    text-align:left;
   }
-  

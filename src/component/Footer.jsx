@@ -40,10 +40,10 @@ function Footer() {
       <div className="follow-info">
         <h1 className="headings">Follow Us</h1>
         <div className="icon-order">
-          <a href="https://www.facebook.com/aceacademy?fref=ts" target="_blank"><FaFacebook size={25} color="bisque" className="icons" /></a>
-          <a href="https://www.instagram.com/ace_engineering_academy/?hl=en" target="_blank"><FaInstagram size={25} color="bisque" className="icons" /></a>
-          <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Face_enggacademy" target="_blank"><FaTwitter size={25} color="bisque" className="icons" /></a>
-          <a href="https://www.youtube.com/channel/UCukI6GR31qv8UkgBsZDrRSw" target="_blank"><FaYoutube size={25} color="bisque" className="icons" /></a>
+          <a href="https://www.facebook.com/aceacademy?fref=ts" target="_blank"><FaFacebook size={25} className="icons" /></a>
+          <a href="https://www.instagram.com/ace_engineering_academy/?hl=en" target="_blank"><FaInstagram size={25}  className="icons" /></a>
+          <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Face_enggacademy" target="_blank"><FaTwitter size={25}  className="icons" /></a>
+          <a href="https://www.youtube.com/channel/UCukI6GR31qv8UkgBsZDrRSw" target="_blank"><FaYoutube size={25}  className="icons" /></a>
         </div>
       </div>
     </div>

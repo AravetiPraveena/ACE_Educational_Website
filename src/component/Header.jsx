@@ -16,27 +16,52 @@ function Header() {
       <div className='logoimg'>
         <img src={logo} alt='no image' style={{ width: '300px' }} />
       </div>
-      <ul className='listElements'>
+      <ul className='listElements' >
         <li className='listElementsli'>
           <p className='listElementslist'>
           <li><BsBagCheckFill /></li>
             {/* <FontAwesomeIcon icon={faBriefcase} className='icon' /> */}
             Careers
           </p>
+
+          <p  style={{borderRight: '1px solid white', position: 'fixed', top: '40px', left:'57vw',  height:'50px'}}></p>
         </li>
+
+
+  
+
+        {/* <li className='listElementsli' style={{borderRight: '1px solid white', position: 'fixed', top: '50px;',  height:'70px'}}>
+  <p className='listElementslist'>
+    <li><HiOutlineAcademicCap /></li>
+    Online Admissions
+  </p>
+</li>  */}
+
+
+
+
+
+
         <li className='listElementsli'>
           <p className='listElementslist'>
           <li><HiOutlineAcademicCap /></li>
             {/* <FontAwesomeIcon icon={faGraduationCap} className='icon' /> */}
             Online Admissions
           </p>
+
+          <p  style={{borderRight: '1px solid white', position: 'fixed', top: '40px', left:'65vw',  height:'50px'}}></p>
         </li>
+
+
         <li className='listElementsli'>
           <p className='listElementslist'>
          <li> <FaLaptopMedical /></li>
             {/* <FontAwesomeIcon icon={faRightBracket} className='icon' /> */}
             Student Login
           </p>
+
+          <p  style={{borderRight: '1px solid white', position: 'fixed', top: '40px', left:'71vw',  height:'50px'}}></p>
+
         </li>
         <li className='listElementsli'>
           <p className='listElementslist'>
@@ -44,6 +69,9 @@ function Header() {
             {/* <FontAwesomeIcon icon={faEnvelope} className='icon' /> */}
             Job Notifications
           </p>
+
+          <p  style={{borderRight: '1px solid white', position: 'fixed', top: '40px', left:'79vw',  height:'50px'}}></p>
+
         </li>
         <li className='listElementsli'>
           <p className='listElementslist'>

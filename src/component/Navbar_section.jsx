@@ -340,7 +340,7 @@ const handleMouseLeaveEight = () => {
 <a href="#" className='nav-item'>OUR LOCATIONS</a>
 
         <a href="#" className='nav-item'>BLOG</a>
-        <a href="#" className='nav-item'>Books</a>
+        <a href="#" className='nav-item'>BOOKS</a>
         <a href="#" className='nav-item'>CONTACT US</a>
  
     </div>
